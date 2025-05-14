@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhushanandawaththa&label=Profile%20views&color=0e75b6&style=flat" alt="madhushanandawaththa" /> </p>
 
-- 🔭 I’m currently working on **my 3rd year group project about Digital Publishing Platform for Literary and Creative Content named AETHA**
-
-- 🌱 I’m currently learning **about Generative Ai and Spring boot framework**
-
 - 💬 Ask me about **New ideas and how to improve a project idea**
 
 - 📫 How to reach me **madhushanandawaththa@gmail.com**
