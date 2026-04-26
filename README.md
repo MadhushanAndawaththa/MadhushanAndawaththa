@@ -1,10 +1,7 @@
 <h1 align="center">Thiwanka Madhushan</h1>
-<h3 align="center">Software Engineer — Full-Stack · React · TypeScript · Node.js · Python · Java</h3>
+<h3 align="center">Software Engineer - Full-Stack · React · TypeScript · Node.js · Python · Java</h3>
 
 <p align="center">
-  <a href="https://github.com/MadhushanAndawaththa">
-    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717"/>
-  </a>
   <a href="https://linkedin.com/in/thiwankamadhushan">
     <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
@@ -20,14 +17,17 @@
 
 ## About Me
 
-Full-stack software engineer building production-grade web and mobile systems — React/TypeScript on the frontend, React Native for mobile, Node.js/Express and FastAPI on the backend, Java/Spring Boot for service-layer work, and PostgreSQL as my primary database. I've shipped AI integrations into products and care about clean architecture, security-conscious patterns, and tests that actually catch bugs.
+I'm a software engineer who likes building products that stay reliable and easy to work on as they grow. Most of my work sits across React and TypeScript on the frontend, React Native on mobile, and Node.js/Express, FastAPI, and Spring Boot on the backend, usually backed by PostgreSQL.
 
-- **React, TypeScript, React Native** — composable component design, custom hooks, mobile
-- **Node.js/Express, FastAPI, Spring Boot** — REST API design, JWT auth, OAuth 2.0
-- **Python, Java** — backend services, data processing, AI/ML integrations
-- **PostgreSQL, MongoDB, Redis** — schema design, migrations, data modeling
-- **Jest, React Testing Library, Playwright** — testing as a development discipline
-- BSc Computer Science — University of Colombo School of Computing (UCSC)
+I'm strongest when a feature needs to be carried end-to-end: shaping the data model, defining the API, building the UI, and covering the edge cases. I care about readable code, clear communication, security, and shipping software that behaves well in production.
+
+- **React, TypeScript, React Native** - web and mobile features built for real users
+- **Node.js/Express, FastAPI, Spring Boot** - backend APIs, auth flows, integrations, and business logic
+- **Python, Java** - backend services, data handling, and AI-powered product work
+- **PostgreSQL, MongoDB, Redis** - schema design, migrations, and practical data modeling
+- **Jest, React Testing Library, Playwright** - reducing regressions and shipping with confidence
+- Comfortable turning rough requirements into working software and iterating with clients or stakeholders
+- BSc Computer Science - University of Colombo School of Computing (UCSC)
 
 ---
 
