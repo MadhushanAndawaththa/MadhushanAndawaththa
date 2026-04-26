@@ -19,13 +19,14 @@
 
 I'm a software engineer who likes building products that stay reliable and easy to work on as they grow. Most of my work sits across React and TypeScript on the frontend, React Native on mobile, and Node.js/Express, FastAPI, and Spring Boot on the backend, usually backed by PostgreSQL.
 
-I'm strongest when a feature needs to be carried end-to-end: shaping the data model, defining the API, building the UI, and covering the edge cases. I care about readable code, clear communication, security, and shipping software that behaves well in production.
+My strongest contribution often comes early: spotting ways to improve a product or feature, pressure-testing ideas before implementation, and designing efficient data models that keep the system practical, scalable, and easier to maintain. I'm good at turning rough ideas into clear technical direction, then carrying that work through API design, UI implementation, and the edge cases that matter in production. I care about readable code, clear communication, security, and shipping software that behaves well in production.
 
 - **React, TypeScript, React Native** - web and mobile features built for real users
 - **Node.js/Express, FastAPI, Spring Boot** - backend APIs, auth flows, integrations, and business logic
 - **Python, Java** - backend services, data handling, and AI-powered product work
-- **PostgreSQL, MongoDB, Redis** - schema design, migrations, and practical data modeling
+- **PostgreSQL, MongoDB, Redis** - schema design, migrations, and efficient data modeling
 - **Jest, React Testing Library, Playwright** - reducing regressions and shipping with confidence
+- Strong in product and feature brainstorming, identifying practical improvements early, and turning ideas into clear implementation plans
 - Comfortable turning rough requirements into working software and iterating with clients or stakeholders
 - BSc Computer Science - University of Colombo School of Computing (UCSC)
 
