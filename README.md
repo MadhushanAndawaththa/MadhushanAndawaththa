@@ -1,108 +1,87 @@
-<h1 align="center">Hi 👋, I'm Thiwanka Madhushan</h1>
-
-<h3 align="center">
-Full-Stack Software Engineer | React, Node.js & Spring Boot | Web & Mobile Systems
-</h3>
+<h1 align="center">Thiwanka Madhushan</h1>
+<h3 align="center">Software Engineer — Full-Stack · React · TypeScript · Node.js · Python · Java</h3>
 
 <p align="center">
-I work on production systems that support real business operations.
-My day-to-day work mainly involves React on the frontend and Node.js and Spring Boot on the backend,
-building and maintaining features that need to be stable, predictable, and easy to extend.
-</p>
-
-<p align="center">
-In my professional role, I primarily work on HR, payment, and user management features.
-Alongside this, I contribute to R&D tasks and support other product areas when required.
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=madhushanandawaththa&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-### About Me
-
-- 👨‍💻 Full-stack engineer working primarily with **React, Node.js, and Spring Boot**
-- 🧾 Professional experience with **HR, payment, and user management systems**, where correctness and data consistency matter
-- 🔁 Comfortable maintaining existing codebases and improving them incrementally
-- 🔬 Involved in **R&D tasks**, exploring tools, integrations, and technical approaches before implementation
-- 📱 Contributed to **mobile features** alongside web platforms when required
-- 🎓 Built **novel and travel-related platforms** as part of university projects
-- 🛠 Known for being careful with changes to core workflows and for clear communication during handovers
-- 💬 Ask me about **React, Node.js, Spring Boot, REST APIs, SaaS platforms, and system reliability**
-- 📫 Reach me at: **madhushanandawaththa@gmail.com**
-
----
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/thiwankamadhushan" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      height="30"
-      width="40"
-    />
+  <a href="https://github.com/MadhushanAndawaththa">
+    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717"/>
+  </a>
+  <a href="https://linkedin.com/in/thiwankamadhushan">
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://thiwanka-madhushan.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
+  </a>
+  <a href="mailto:madhushanandawaththa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Core Technologies (Production Use)</h3>
+## About Me
 
-<p align="left">
-React · Node.js · Spring Boot · PostgreSQL · MySQL · MongoDB · AWS · Docker · Kubernetes · Kafka · Git
+Full-stack software engineer building production-grade web and mobile systems — React/TypeScript on the frontend, React Native for mobile, Node.js/Express and FastAPI on the backend, Java/Spring Boot for service-layer work, and PostgreSQL as my primary database. I've shipped AI integrations into products and care about clean architecture, security-conscious patterns, and tests that actually catch bugs.
+
+- **React, TypeScript, React Native** — composable component design, custom hooks, mobile
+- **Node.js/Express, FastAPI, Spring Boot** — REST API design, JWT auth, OAuth 2.0
+- **Python, Java** — backend services, data processing, AI/ML integrations
+- **PostgreSQL, MongoDB, Redis** — schema design, migrations, data modeling
+- **Jest, React Testing Library, Playwright** — testing as a development discipline
+- BSc Computer Science — University of Colombo School of Computing (UCSC)
+
+---
+
+## Tech Stack
+
+<p align="left"><sub>Languages</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=007396"/>
+  <img src="https://img.shields.io/badge/C/C++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
 </p>
 
-<p align="left">
-  <!-- Core / Production Stack -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+<p align="left"><sub>Frontend &amp; Mobile</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/React%20Native-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux-FFFFFF?style=for-the-badge&logo=redux&logoColor=764ABC"/>
+  <img src="https://img.shields.io/badge/Storybook-FFFFFF?style=for-the-badge&logo=storybook&logoColor=FF4785"/>
 </p>
 
-<p>
-Core technologies are what I’ve used in production or worked with most recently, focusing on stability, data integrity, and maintainable systems.
+<p align="left"><sub>Backend &amp; APIs</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-FFFFFF?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+</p>
+
+<p align="left"><sub>Data</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=DC382D"/>
+</p>
+
+<p align="left"><sub>Testing &amp; DevOps</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=C21325"/>
+  <img src="https://img.shields.io/badge/Playwright-FFFFFF?style=for-the-badge&logo=playwright&logoColor=2EAD33"/>
+  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/AWS-FFFFFF?style=for-the-badge&logo=amazonaws&logoColor=232F3E"/>
+  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
 
 ---
 
-<h3 align="left">Additional Technologies (Hands-on Experience)</h3>
-
-<p align="left">
-React Native · Android (Kotlin) · Angular · Next.js · Vue.js · Django · Express.js · NestJS ·
-Firebase · Redis · RabbitMQ · Linux · Tailwind CSS · Bootstrap · Chart.js ·
-Python · Java · C/C++
-</p>
-<p align="left">
-  <!-- Additional / R&D / Academic / Supporting Tech -->
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40"/></a>
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
-  <a href="https://www.rabbitmq.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
-  <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-</p>
-<p>
-These technologies were used in academic projects, R&D tasks, or supporting roles within larger systems.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MadhushanAndawaththa/MadhushanAndawaththa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MadhushanAndawaththa/MadhushanAndawaththa/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/MadhushanAndawaththa/MadhushanAndawaththa/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
