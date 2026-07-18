@@ -1,5 +1,5 @@
 <h1 align="center">Thiwanka Madhushan</h1>
-<h3 align="center">Software Engineer - Full-Stack · React · TypeScript · Node.js · Python · Java</h3>
+<h3 align="center">AI Product Engineer & Full-Stack Developer · React · TypeScript · Node.js · Python</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/thiwankamadhushan">
@@ -17,13 +17,13 @@
 
 ## About Me
 
-I'm a software engineer who likes building products that stay reliable and easy to work on as they grow. Most of my work sits across React and TypeScript on the frontend, React Native on mobile, and Node.js/Express, FastAPI, and Spring Boot on the backend, usually backed by PostgreSQL.
+I'm an AI Product Engineer and full-stack developer who likes building products that stay reliable and easy to work on as they grow. Most of my work sits across React and TypeScript on the frontend, and Node.js/Express, NestJS, FastAPI, and Spring Boot on the backend, designing everything from scalable web platforms to intelligent workflow automation and LLM pipelines.
 
 My strongest contribution often comes early: spotting ways to improve a product or feature, pressure-testing ideas before implementation, and designing efficient data models that keep the system practical, scalable, and easier to maintain. I'm good at turning rough ideas into clear technical direction, then carrying that work through API design, UI implementation, and the edge cases that matter in production. I care about readable code, clear communication, security, and shipping software that behaves well in production.
 
 - **React, TypeScript, React Native** - web and mobile features built for real users
-- **Node.js/Express, FastAPI, Spring Boot** - backend APIs, auth flows, integrations, and business logic
-- **Python, Java** - backend services, data handling, and AI-powered product work
+- **Node.js/Express, NestJS, FastAPI, Spring Boot** - backend APIs, integrations, and business logic
+- **Python, Java** - agentic workflows, OCR data extraction, AI pipelines, and backend services
 - **PostgreSQL, MongoDB, Redis** - schema design, migrations, and efficient data modeling
 - **Jest, React Testing Library, Playwright** - reducing regressions and shipping with confidence
 - Strong in product and feature brainstorming, identifying practical improvements early, and turning ideas into clear implementation plans
@@ -55,6 +55,7 @@ My strongest contribution often comes early: spotting ways to improve a product 
 <p align="left"><sub>Backend &amp; APIs</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/NestJS-FFFFFF?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
   <img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
   <img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=009688"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-FFFFFF?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
